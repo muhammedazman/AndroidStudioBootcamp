@@ -1,1 +1,1 @@
-<img src="https://github.com/muhammedazman/AndroidStudioBootcamp/blob/main/ConstraitLayoutProject/app.png?raw=true" alt="Constrait Layout Screenshot" width="250">
+<img src="https://raw.githubusercontent.com/muhammedazman/AndroidStudioBootcamp/main/ConstraitLayoutProject/Screenshot.jpg" alt="Constrait Layout Screenshot" width="250">
