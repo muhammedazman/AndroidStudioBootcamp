@@ -1,1 +1,1 @@
-![Constrait Layout Screenshot](https://github.com/muhammedazman/AndroidStudioBootcamp/blob/main/ConstraitLayoutProject/app.png?raw=true| width=100)
+<img src="https://github.com/muhammedazman/AndroidStudioBootcamp/blob/main/ConstraitLayoutProject/app.png?raw=true" alt="Constrait Layout Screenshot" width="250">
