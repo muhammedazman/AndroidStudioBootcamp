@@ -38,6 +38,9 @@ class MainActivity : AppCompatActivity() {
             else -> R.drawable.dice_6
         }
         imageView.setImageResource(drawableResource)
+
+        // Update the content description
+        imageView.contentDescription = diceRoll.toString()
     }
 }
 
